@@ -1,0 +1,35 @@
+{% extends 'layout.twig' %}
+
+{% block title %}TimeTable{% endblock %}
+
+{% block content %}
+
+
+    <div class="jumbotron jumbotron-fluid text-center">
+        <div class="container">
+            <h1 class="display-4">Route</h1>
+            <p class="lead">  {{ddl_location1}} - {{ ddl_location2}}</p>
+	
+
+            <h1>Segments</h1>
+            <ul>
+                {% for segment in route %}
+
+                        <li>{{ segment.sifra|e }} - {{ segment.naziv|e }} </li>
+
+                {% endfor %}
+            </ul>
+
+
+    <div class="row" style = margin-bottom:55px;">
+        <div class="col-md-12">
+
+        </div>
+    </div>
+
+
+	
+
+        </div>
+    </div>
+{% endblock %}

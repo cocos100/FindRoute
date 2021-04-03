@@ -1,0 +1,530 @@
+0   Subotica 
+14  Bikovo 
+17  Gabrić 
+21  Orom 
+26  Doline staj 
+31  Bogaraš ukr: 
+39  Gornji Breg staj 
+44  Senta 
+44  Senta 
+54  Čoka 
+60  Ostojićevo tov i staj 
+68  Padej 
+82  Bočar tov i staj 
+88  Banatsko Miloševo 
+88  Banatsko Miloševo 
+110 Kikinda 
+
+
+0    Beograd Centar 
+0    Karađorđev park 
+0    Vukov spomenik 
+0    Pančevački most 
+1    Krnjača most 
+2    Krnjača  
+7    Sebeš 
+10   Ovča 
+18   Pančevo glavna st. 
+18   Pančevo glavna st. 
+27   Jabuka 
+31   Kačarevo 
+39   Crepaja 
+46   Debeljača  
+52   Kovačica  
+63   Uzdin 
+70   Tomaševac 
+72   Orlovat stajalište 31 
+72   Orlovat stajalište 
+86   Lukićevo 
+96   Zrenjanin fabrika 
+100  Zrenjanin 43 
+100  Zrenjanin 
+109  Elemir 
+
+117  Melenci               
+126  Kumane                
+136  Novi Bečej            
+153  Banat. Miloševo Polje 
+157  Banatsko Miloševo     
+179  Kikinda               
+179  Kikinda              
+
+
+0    Kikinda 
+22   Banatsko Miloševo 
+26   Banatsko Miloševo polje 
+43   Novi Bečej 
+54   Kumane 
+62   Melenci 
+70   Elemir 
+79   Zrenjanin 43 
+79   Zrenjanin 
+83   Zrenjanin fabrika  
+93   Lukićevo 
+107  Orlovat stajalište 31 
+107  Orlovat stajalište  
+109  Tomaševac 
+116  Uzdin 
+127  Kovačica   
+133  Debeljača  
+140  Crepaja 
+148  Kačarevo 
+152  Jabuka 
+161  Pančevo glavna st 
+161  Pančevo glavna st 
+169  Ovča 
+172  Sebeš 
+177  Krnjača ukr.  
+178  Krnjača  most 
+179  Pančevački most 
+179  Vukov spomenik 
+179  Karađorđev park 
+179  Beograd Centar 
+
+0   Vršac 
+9   Vlajkovac 
+14  Uljma 
+22  Nikolinci 
+26  Banatski Karlovac 
+33  Alibunar 
+41  Vladimirovac 
+54  Banatsko Novo Selo 
+72  Pančevo varoš 
+75  Pančevo glavna st 
+75  Pančevo glavna st 
+83  Ovča 
+86  Sebeš 
+91  Krnjača ukr.  
+91  Krnjača  most 
+93  Pančevački most 
+93  Vukov spomenik 
+93  Karađorđev park 
+93  Beograd Centar 
+
+
+
+0   Beograd Centar 
+0   Topčider 
+10  Rakovica 
+12  Kneževac 
+13  Kijevo 
+16  Resnik 
+26  Bela Reka 
+30  Nenadovac 
+34  Barajevo 
+37  Barajevo centar 
+42  Veliki Borak 
+48  Leskovac Kolubarski 
+51  Stepojevac 
+59  Vreoci 
+
+--
+
+68   Lazarevac 
+75   Lajkovac 
+82   Slovac 
+88   Mlađevo 
+91   Divci 
+93   Lukavac Kolubarski 
+98   Iverak 
+103  Valjevo 
+103  Valjevo 
+112  Valjevski Gradac 
+118  Leskovice 
+122  Lastra 
+133  Samari 
+138  Drenovački Kik 
+142  Ražana 
+151  Kosjerić 
+155  Tubići 
+164  Kalenići 
+168  Otanj 
+170  Glumač 
+176  Požega, 73 
+182  Rasna 
+188  Uzići 
+190  Zlakusa 
+193  Bukovička Rampa 
+196  Sevojno 
+203  Užice teretna 
+206  Užice 
+206  Užice 
+215  Stapari 
+219  Ristanovića Polje 
+222  Tripkova 
+225  Sušica 
+234  Branešci 
+244  Zlatibor 
+252  Ribnica Zlatiborska 
+259  Jablanica 
+270  Štrpci 
+275  Rača 
+
+283  Priboj 
+287  Poljice 
+293  Pribojska Banja 
+304  Bistrica na Limu 
+307  Džurovo 
+320  Prijepolje 
+324  Prijepolje teretna 
+324  Prijepolje teretna  
+329  Velika Župa 
+335  Lučice 
+345  Brodarevo 
+359  Vrbnica  
+359  Vrbnica  
+
+
+0   Beograd Centar 
+0   Topčider 
+10  Rakovica 
+12  Kneževac 
+13  Kijevo 
+16  Resnik 
+26  Bela Reka 
+30  Nenadovac 
+34  Barajevo 
+37  Barajevo centar 
+42  Veliki Borak 
+48  Leskovac Kolubarski 
+51  Stepojevac 
+59  Vreoci 
+68  Lazarevac 
+75  Lajkovac 
+82  Slovac 
+88  Mlađevo 
+91  Divci 
+93  Lukavac Kolubarski 
+98  Iverak 
+103 Valjevo 
+103 Valjevo 
+112 Valjevski Gradac 
+118 Leskovice 
+122 Lastra 
+133 Samari 
+138 Drenovački Kik 
+142 Ražana 
+
+151 Kosjerić 
+155 Tubići 
+164 Kalenići 
+168 Otanj 
+170 Glumač 
+176 Požega, 73 
+ 
+ 
+ 
+176  Požega 
+182  Rasna 
+188  Uzići 
+190  Zlakusa 
+193  Bukovička Rampa 
+196  Sevojno 
+203  Užice teretna 
+
+206 Užice 
+215 Stapari 
+219 Ristanovića Polje 
+222 Tripkova 
+225 Sušica 
+234 Branešci 
+244 Zlatibor 
+252 Ribnica Zlatiborska 
+259 Jablanica 
+270 Štrpci 
+275 Rača 
+283 Priboj 
+287 Poljice 
+293 Pribojska Banja 
+304 Bistrica na Limu 
+307 Džurovo 
+320 Prijepolje 
+324 Prijepolje teretna 
+324 Prijepolje teretna  
+329 Velika Župa 
+335 Lučice 
+345 Brodarevo 
+359 Vrbnica  
+359 Vrbnica  
+   
+ 
+ 3    Vrbnica  
+17    Brodarevo 
+27    Lučice 
+33    Velika Župa 
+38    Prijepolje teretna 
+38    Prijepolje teretna 
+42    Prijepolje 
+55    Džurovo 
+58    Bistrica na Limu 
+69    Pribojska Banja 
+75    Poljice 
+79    Priboj 
+87    Rača 
+92    Štrpci 
+103   Jablanica 
+110   Ribnica Zlatiborska 
+118   Zlatibor 
+128   Branešci 
+137   Sušica 
+140   Tripkova 
+143   Ristanovića Polje 
+147   Stapari 
+
+
+156  Užice 
+159  Užice teretna 
+166  Sevojno 
+169  Bukovička rampa 
+172  Zlakusa 
+174  Uzići 
+180  Rasna 
+186  Požega 73 
+
+186  Požega 
+192  Glumač 
+194  Otanj  
+     
+198   Kalenići 
+207   Tubići 
+211   Kosjerić 
+220   Ražana 
+224   Drenovački Kik 
+229   Samari 
+240   Lastra 
+244   Leskovice 
+250   Valjevski Gradac 
+259   Valjevo 
+259   Valjevo 
+264   Iverak 
+269   Lukavac Kolubarski 
+271   Divci 
+274   Mlađevo 
+280   Slovac 
+287   Lajkovac 
+     
+
+294 Lazarevac 
+303 Vreoci 
+311 Stepojevac 
+314 Leskovac Kolubarski 
+320 Veliki Borak 
+325 Barajevo Centar 
+328 Barajevo 
+332 Nenadovac 
+336 Bela Reka 
+346 Resnik 
+349 Kijevo 
+350 Kneževac 
+352 Rakovica 
+362 Topčider 
+362 Beograd Centar 
+362 Beograd Centar 
+
+3     Vrbnica  
+3     Vrbnica  
+17    Brodarevo 
+27    Lučice 
+33    Velika Župa 
+38    Prijepolje teretna 
+38    Prijepolje teretna 
+42    Prijepolje 
+55    Džurovo 
+58    Bistrica na Limu 
+69    Pribojska Banja 
+75    Poljice 
+79    Priboj 
+87    Rača 
+92    Štrpci 
+103   Jablanica 
+110   Ribnica Zlatiborska 
+118   Zlatibor 
+
+
+
+128  Branešci 
+137  Sušica 
+140  Tripkova 
+143  Ristanovića Polje 
+147  Stapari 
+156  Užice 
+156  Užice 
+159  Užice teretna 
+166  Sevojno 
+169  Bukovička rampa 
+172  Zlakusa 
+174  Uzići 
+180  Rasna 
+186  Požega 73 
+186  Požega 
+192  Glumač 
+194  Otanj 
+    
+
+198  Kalenići 
+207  Tubići 
+211  Kosjerić 
+220  Ražana 
+224  Drenovački Kik 
+229  Samari 
+240  Lastra 
+244  Leskovice 
+250  Valjevski Gradac 
+259  Valjevo 
+259  Valjevo 
+264  Iverak 
+269  Lukavac Kolubarski 
+271  Divci 
+274  Mlađevo 
+280  Slovac 
+287  Lajkovac 
+    
+
+294  Lazarevac 
+303  Vreoci 
+311  Stepojevac 
+314  Leskovac Kolubarski 
+320  Veliki Borak 
+325  Barajevo Centar 
+328  Barajevo 
+332  Nenadovac 
+336  Bela Reka 
+346  Resnik 
+350  Kneževac 
+349  Kijevo 
+352  Rakovica 
+362  Topčider 
+362  Beograd Centar 
+
+ 
+ 
+0 Beograd Centar 
+0  Karađorđev park 
+0  Vukov spomenik 
+0  Pančevački most  Krnjača most  Krnjača ukr. 
+2  Sebeš 
+2  Ovča 
+7  Pančevo glavna st. 
+10 Pančevo glavna st. 
+18 Pančevo varoš 
+18 Banatsko Novo Selo 
+21 Vladimirovac 
+39 Alibunar 
+52 Banatski Karlovac 
+60 Nikolinci 
+67 Uljma 
+71 Vlajkovac 
+79 Vršac 
+
+0   Požega 
+8   Boračko 
+11  Gugalj 
+13  Dragačevo 
+19  Jelen Do 
+23  Ovčar Banja 
+34  Prijevor 
+39  Trbušani 
+45  Čačak 
+53  Baluga 
+55  Zablaće 
+58  Kukići 
+60  Mršinci 
+64  Goričani 
+69  Samaila 
+72  Mrsać 
+75  Adrani 
+83  Kraljevo 
+86  Sirča 
+90  Ratina 
+93  Vrba 
+96  Vraneši 
+99  Podunavci 
+101 Tominac 
+103 Lipova 
+108 Vrnjačka Banja 
+115 Trstenik 
+123 Počekovina 
+125 Donja Počekovina 
+130 Stopanja 
+139 Koševi 
+142 Čitluk 
+146 Kruševac 
+150 Dedina 
+159 Mrzenica 
+161 Grad Stalać 
+163 Stalać 
+
+
+0 Beograd Centar
+10 Rakovica
+39 Ralja
+60 Mladenovac 
+75 Kusadak 
+88 Palanka 
+101 Velika Plana 
+112 Markovac
+119 Lapovo varoš 
+121 Lapovo ranžirna
+122 Lapovo 
+122 Lapovo 
+125 Batočina 
+131 Gradac 
+135 Badnjevac 
+140 Resnik Kragujevački 
+143 Milatovac 
+145 Cvetojevac
+148 Jovanovac 
+154 Kragujevac 
+154 Kragujevac 
+156 Zavod 
+160 Grošnica 
+166 Dragobraća 
+172 Vučkovica
+175 Knić 
+183 Gruža 
+191 Guberevac 
+194 Tomića brdo 
+196 Vitkovac 
+201 Milavčići 
+205 Vitanovac 
+211 Šumarice 
+214 Sirča 
+217 Kraljevo 
+227 Mataruška Banja 
+231 Progorelica 
+235 Bogutovačka Banja 
+255 Polumir 
+261 Pusto Polje 
+265 Ušće 
+271 Lozno 
+274 Jošanička Banja 
+277 Piskanja 
+283 Brvenik 
+287 Rvati 
+293 Raška 
+297 Kaznovići 
+303 Rudnica 
+308 Donje Jarinje staj. 
+311 Jerina stajalište 
+315 Lešak 
+321 Dren 
+326 Leposavić 
+330 Pridvorica 
+334 Sočanica 
+337 Ibarska Slatina 
+342 Plandište 
+347 Banjska 
+355 Valač 
+357 Zvečan 
+362 Kosovska Mitrovica Sever
+367 Svinjare
+369 Pantina
+372 Vučitrn
+377 Vrnica
+379 Samodreža
+382 Mijalić
+386 Prilužje
+389 Plemetina
+393 Obilić
+395 Dobro Selo
+399 Kosovo Polje 
