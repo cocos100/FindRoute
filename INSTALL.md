@@ -4,7 +4,7 @@
 * [Composer](https://getcomposer.org)
 
 ## Installation
-1. Clone this repository into your local machine using the terminal (MAC) or Gitbash (Windows) `git clone https://github.com/nbayramberdiyev/slim-4-starter.git`.
+1. Clone this repository into your local machine using the terminal (MAC) or Gitbash (Windows) `git clone https://github.com/cocos100/FindRoute.git`.
 2. Go to the project folder `cd slim-4-starter`.
 3. Run `composer install` to install the project dependencies.
 4. Run `cp .env.example .env` to create a copy of .env.example.
